@@ -1,0 +1,8 @@
+After attending this lecture, reading the corresponding part of the book and doing exercises, I expect you to be able to:
+- Know how to approach features and when to drop and/or engineer them for your specific purposes
+- Prepare a dataset for ML. Specifically, you should be able to explain and perform each of the operations below:
+- Handle missing values/NaN-values in appropriate ways
+- Identify and handle outliers, inlcuding using a boxplot
+- Create dummy variables
+- Scale/normalize variables
+- Create a bag-of-words-representation for text-data
