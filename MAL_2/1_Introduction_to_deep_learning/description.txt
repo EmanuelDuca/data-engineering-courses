@@ -1,0 +1,7 @@
+We will recap some MAL1 concepts and get started on deep learning. Literature: Chapter 10 (except the section on Backpropagation).
+
+After today's lesson, I expect you to be able to:
+• Distinguish between artificial intelligence, machine learning, and deep learning.
+• Explain the core components of a neural network, including neurons, weights, and biases.
+• Explain the purpose and functioning of activation functions, gradient descent, and loss functions.
+• Implement basic neural network structures in Python, using Keras/TensorFlow and experiment with different activation functions and interpret their impacts on model training.

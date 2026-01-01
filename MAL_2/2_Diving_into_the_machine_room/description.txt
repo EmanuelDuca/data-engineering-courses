@@ -1,0 +1,8 @@
+We will talk about some of the technical details of how training a neural network works. Literature: Chapter 11 + the section on Backpropagation from Chapter 10.
+
+After today's lesson, I expect you to be able to:
+• Explain the backpropagation process.
+• Outline the vanishing and exploding gradient problems, and how to solve them with informed choices of activation functions.
+• Explain the key ideas behind different optimizers, including momentum, NAG, AdaGrad, RMSProp, Adam, Nadam, AdamW.
+• Explain and implement regularization techniques (L1, L2, dropout, early stopping) in TensorFlow/Keras to reduce overfitting and improve model generalization.
+• Explain the reasoning behind and apply learning rate scheduling techniques.
